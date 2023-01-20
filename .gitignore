@@ -1,0 +1,8 @@
+CMakeFiles
+CMakeCache.txt
+*.exe
+librandomx.a
+*.cmake
+Makefile
+gxminer
+RandomX/
